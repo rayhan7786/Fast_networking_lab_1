@@ -8,5 +8,5 @@ This is a basic networking lab created using Packet Tracer. Here, 1 router and 2
 - **PC-0:** 192.168.1.2 (Gateway: 192.168.1.1)
 - **PC-1:** 192.168.2.2 (Gateway: 192.168.2.1)
 
-## Network topologyি:
+## Network topology:
 ![Topology Screenshot](n.png)
