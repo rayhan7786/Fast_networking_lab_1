@@ -1,13 +1,12 @@
 # Basic Router and 2 PC Lab
-এটি প্যাকেট ট্রেসার ব্যবহার করে তৈরি করা একটি বেসিক নেটওয়ার্কিং ল্যাব। এখানে ১টি রাউটার এবং ২টি আলাদা সাবনেটের পিসি কানেক্ট করা হয়েছে।
-
-## ব্যবহার করা ডিভাইস:
+This is a basic networking lab created using Packet Tracer. Here, 1 router and 2 PCs on different subnets are connected.
+## Device used:
 - 1x Router (2911)
 - 2x PCs
 
-## আইপি কনফিগারেশন:
+## IP configuration:
 - **PC-0:** 192.168.1.2 (Gateway: 192.168.1.1)
 - **PC-1:** 192.168.2.2 (Gateway: 192.168.2.1)
 
-## নেটওয়ার্ক টপোলজি:
+## Network topologyি:
 ![Topology Screenshot](n.png)
